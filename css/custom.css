@@ -1,1 +1,17 @@
 /*Use this for custom stuff*/
+
+body{
+	background-image:url("http://blandfot.com/wp-content/uploads/2013/11/white-clouds-and-blue-sky_1600x1200_78556.jpg");
+}
+
+h2{
+	color: black;
+}
+
+div.titletext{
+	color:white;
+}
+
+div.description{
+	color:black;
+}
